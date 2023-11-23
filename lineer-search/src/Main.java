@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
         /*
-           Lineer Search
-           Time Complexity O(N)
+            Lineer Search
+            Time Complexity O(N)
         */
 
         int[] array = {23, 0, 1, 4, 6, 85463, 45, 6, 73, 234, 6, 2, 21};
